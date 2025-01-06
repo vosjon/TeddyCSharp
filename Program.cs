@@ -16,3 +16,11 @@ Console.WriteLine($"My name is {name} and my age is {age}.");
 
 // Video 3: Data Types
 
+var name2 = "Jon";
+
+var jeffBezosNetworth = 19600000000;
+
+var charchar = 'c';
+
+// Video 4: Strings
+
